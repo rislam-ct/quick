@@ -25,7 +25,8 @@ header {padding: 3px 0;
 .menu ul li a {text-decoration: none;
 	padding: 0 10px;
 	color: #0f2656;
-	display: inline-block;}
+	display: inline-block;
+	transition: .33s;}
 .menu ul li a:hover {color: #1493ff;}
 .menu ul li:last-child a{padding-right: 0;}
 	/*Header End*/
