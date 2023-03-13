@@ -1,0 +1,92 @@
+	/*Common Start*/
+body {margin: 5px;
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #0f2656;}
+	/*Common End*/
+	/*Header Start*/
+header {padding: 3px 0;
+	border-bottom: 3px solid #f2f3f5;}
+.container {/*border: 1px solid red;*/
+	overflow: hidden;
+	width: 90%;
+	margin: 0 auto;}
+.logo {width: 6%;
+	float: left;
+	margin-top: 6px;}
+.logo a {display: block;}
+.logo a img {width: 100%}
+.menu {width: 60%;
+	float: right;}
+.menu ul {float: right;}
+.menu ul li {list-style: none;
+	float: left;}
+.menu ul li a {text-decoration: none;
+	padding: 0 10px;
+	color: #0f2656;
+	display: inline-block;}
+.menu ul li a:hover {color: #1493ff;}
+.menu ul li:last-child a{padding-right: 0;}
+	/*Header End*/
+	/*banner Start*/
+.bannar {}
+.container2	{width: 50%;
+	/*border: 1px solid red;*/
+	margin: 0 auto;
+	overflow: hidden;}
+.t_center {text-align: center;}
+.b_h1 {font-size: 55px;
+	font-weight: 700;
+	margin: 15px 0 0;
+	line-height: 72px;}
+.b_h1 span {color: #1493ff;}
+.b_p {margin: 15px 0 25px;}
+.b_img {width: 80%;
+	margin: 0 auto;}
+.b_img img {width: 100%;}
+	/*banner End*/
+	/*About Start*/
+.about {padding: 60px 0;}
+.a_left {width: 46%;
+	float: left;
+	text-align: right;}
+.a_left h2 {font-size: 40px;
+	font-weight: 700;
+	color: #f15767;
+	margin: 0;}
+.a_left p {line-height: 25px;
+	margin: 5px 0 0;}
+.a_right {width: 50%;
+	float: right;}
+.a_right h1 {font-size: 42px;
+	font-weight: 700;
+	margin: 0;}
+	/*About End*/
+	/*Services Start*/
+.service {margin: 0 0 50px;}
+.s_item {width: 27%;
+	float: left;
+	margin: 0 1.4% 0 0;
+	padding: 40px 2.7% 65px;}
+.s_img {display: inline-block;}
+.s_img img {width: 100%;}
+.s_h2 {font-size: 25px;
+	font-weight: 700;
+	margin: 15px 0;}
+.s_p {ine-height: 25px;
+	margin: 15px 0 0;}
+.s_item:first-child {background-color: #fdebed;}
+.s_item:nth-child(2) {background-color: #ebf9f4;}
+.s_item:last-child {background-color: #fff7e8;
+	margin-right: 0;}
+	/*Services End*/
+	/*Footer Start*/
+footer {background-color: #1493ff;}
+.f_p {color: white;
+	padding: 20px 0;
+	text-align: center;
+margin: 0;}
+.f_p a {text-decoration: none;
+	color: white;}
+	/*Footer end*/
