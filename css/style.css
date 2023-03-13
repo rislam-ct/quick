@@ -69,7 +69,8 @@ header {padding: 3px 0;
 	float: left;
 	margin: 0 1.4% 0 0;
 	padding: 40px 2.7% 65px;}
-.s_img {display: inline-block;}
+.s_img {display: inline-block; 
+	width: 100%}
 .s_img img {width: 100%;}
 .s_h2 {font-size: 25px;
 	font-weight: 700;
